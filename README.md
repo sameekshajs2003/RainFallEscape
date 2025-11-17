@@ -12,7 +12,7 @@ The game ends either when the player collides with a raindrop (in "Run!!!" mode)
 
 # 🌧️ RainFall Escape
 <p align="center">
-  <img src="IMAGE_URL_HERE" alt="RainFall Escape" width="250"/>
+  <img width="718" height="1344" alt="Screenshot 2025-11-17 122627" src="https://github.com/user-attachments/assets/3e503769-99a7-4d63-923d-5cad98926c85" />
 </p>
 
 Welcome to **RainFall Escape** — a small, cozy Pygame project where you dodge raindrops (or use an umbrella!) and try to beat your best score. 🎮☔
